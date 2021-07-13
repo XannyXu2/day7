@@ -1,0 +1,23 @@
+body {
+    font-family: trebuchet ms;
+}
+table, tr, th, td {
+    border: 1px solid #000000;
+}
+thead {
+    font-weight: bold;
+    color: #ffff00;
+    background-color: #0000ff;
+}
+#table1 {
+    background-color: #00ff00;
+}
+#table2 {
+    background-color: #ff0000;
+}
+th, td {
+    padding: 10px;
+}
+col {
+    background-color: #0000ff55;
+}
