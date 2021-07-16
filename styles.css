@@ -126,3 +126,9 @@ a {
         text-align: center;
     }
 }
+#td1 {
+    text-align: right;
+}
+#td2 {
+    text-align: left;
+}
