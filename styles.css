@@ -52,7 +52,7 @@ header {
     border-top: 2px solid #000000;
     border-bottom: 2px solid #000000;
     padding: 20px;
-    background-color: #7a90ce;
+    background-color: #8ea8eb;
 }
 .headerFooter {
     background-color: #2f51b1;
@@ -83,6 +83,7 @@ img {
 }
 a:visited, a:hover, a:active, a:link {
     color: #8ea8eb;
+    text-decoration: none;
 }
 .plans {
     width: 50%;
